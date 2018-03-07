@@ -1,2 +1,2 @@
-# EcoParqueLaRioja2
+# EcoParqueLaRioja
 Prueba para el Eco Parque Yastai
