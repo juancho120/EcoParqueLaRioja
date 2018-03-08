@@ -1,0 +1,24 @@
+{
+	"errorCode": 0,
+	"errorString": "ok",
+	"hotspots": [
+	{
+		"anchor": {
+			"geolocation": {
+				"lat": -29.446950945076196 ,
+				"lon": -66.85960682915137
+			}
+		},
+		"icon": {
+			"url": "http://nosomosnadie.metro951.com/files/2014/04/pequena-casa.jpg"
+		},
+		"id":1,
+		"text": {
+			"title": "Mi Casa"
+		}
+	},
+
+	],
+	"layer": "" 
+}
+
