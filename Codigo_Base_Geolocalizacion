@@ -1,0 +1,24 @@
+{
+	"errorCode": 0,
+	"errorString": "ok",
+	"hotspots": [
+	{
+		"anchor": {
+			"geolocation": {
+				"lat": ,
+				"lon":
+			}
+		},
+		"icon": {
+			"url": "url del icono"
+		},
+		"id":1,
+		"text": {
+			"title": "nombre de tu punto"
+		}
+	},
+
+	],
+	"layer": "" 
+}
+
