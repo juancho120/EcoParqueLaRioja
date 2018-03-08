@@ -1,0 +1,35 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.446949, 
+          "lon": -66.859607
+        }
+      }, 
+      "id": 1, 
+      "text": {
+        "title": "MI CASA"
+      }
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.4479892, 
+          "lon": -66.8592565
+        }
+      }, 
+      "icon": {
+        "url": "https://github.com/juancho120/EcoParqueLaRioja/blob/ed5817f2d26a54a8975d104ed367313f539ab8e7/Grido.png"
+      }, 
+      "id": 2, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "GRIDO"
+      }
+    }, 
+  ], 
+  "layer": "ecoprueba25hwm"
+}
