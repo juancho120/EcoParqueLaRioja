@@ -5,9 +5,12 @@
     {
       "anchor": {
         "geolocation": {
-          "lat": -29.4134538, 
-          "lon": -66.85645790000001
+          "lat": -29.446936, 
+          "lon": -66.859613
         }
+      }, 
+      "icon": {
+      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
       }, 
       "id": 1, 
       "text": {
