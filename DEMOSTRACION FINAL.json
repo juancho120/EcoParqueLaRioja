@@ -35,9 +35,6 @@
           "lon": -66.8619415
         }
       }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
       "id": 1, 
       "text": {
         "title": "PLAZA 9 DE JULIO"
@@ -50,10 +47,7 @@
           "lat": -29.4127913, 
           "lon": -66.8580308
         }
-      }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
+      },  
       "id": 1, 
       "text": {
         "title": "PLAZA 25 DE MAYOR"
@@ -66,10 +60,7 @@
           "lat": -29.413222, 
           "lon": -66.8589827
         }
-      }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
+      },  
       "id": 1, 
       "text": {
         "title": "CASA DE GOBIERNO"
@@ -82,9 +73,6 @@
           "lat": -29.4099629, 
           "lon": -66.8617338
         }
-      }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
       }, 
       "id": 1, 
       "text": {
@@ -99,9 +87,6 @@
           "lon": -66.8631008
         }
       }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
       "id": 1, 
       "text": {
         "title": "MUNICIPALIDAD"
@@ -115,9 +100,6 @@
           "lon": -66.8622639
         }
       }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
       "id": 1, 
       "text": {
         "title": "AUTOMOVIL CLUB"
@@ -130,9 +112,6 @@
           "lat": -29.4125586, 
           "lon": -66.8617782
         }
-      }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
       }, 
       "id": 1, 
       "text": {
