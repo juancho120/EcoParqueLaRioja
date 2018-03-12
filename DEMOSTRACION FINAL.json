@@ -9,9 +9,6 @@
           "lon": -66.859613
         }
       }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
       "id": 1, 
       "text": {
         "title": "MI CASA"
@@ -24,10 +21,7 @@
           "lat": -29.446106, 
           "lon": -66.857972
         }
-      }, 
-      "icon": {
-      	"url": "https://github.com/juancho120/EcoParqueLaRioja/blob/master/Grido.png"
-      }, 
+      },  
       "id": 1, 
       "text": {
         "title": "ALTO 24"
