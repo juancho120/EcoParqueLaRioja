@@ -9,6 +9,9 @@
           "lon": -66.860926
         }
       }, 
+      "icon": {
+        "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro%202_zps76oc9qs6.png"
+      },
       "id": 1, 
       "text": {
       	"description": "Sta Fe, F5300 La Rioja",
@@ -25,6 +28,7 @@
       },  
       "id": 2, 
       "text": {
+      	"description": "Vélez Sársfield 898-800, La Rioja",
         "title": "Automovil Club"
       }
     }, 
@@ -51,6 +55,7 @@
       },  
       "id": 4, 
       "text": {
+      	"description": "Rivadavia 998-900, La Rioja",
         "title": "Archivo Historico"
       }
     }, 
@@ -64,6 +69,7 @@
       },  
       "id": 5, 
       "text": {
+      	"description": "25 de Mayo 1-99, La Rioja",
         "title": "Monumento a Juan Facundo Quiroga"
       }
     }, 
@@ -77,6 +83,7 @@
       }, 
       "id": 6, 
       "text": {
+      	"description": "Sta Fe 899-999, La Rioja",
         "title": "EPET Nº 2"
       }
     }, 
@@ -90,6 +97,7 @@
       }, 
       "id": 7, 
       "text": {
+      	"description": "AV. Peron, La Rioja",
         "title": "Correo Argentino"
       }
     }, 
@@ -103,6 +111,7 @@
       }, 
       "id": 8, 
       "text": {
+      	"description": "Mariano Moreno 329, La Rioja",
         "title": "Hotel Imperial"
       }
     }, 
@@ -116,7 +125,25 @@
       }, 
       "id": 9, 
       "text": {
+      	"description": "Hipólito Yrigoyen 64, La Rioja",
         "title": "Banco Santander Rio"
+      }
+    },
+
+      	{
+      "anchor": {
+        "geolocation": {
+          "lat": -29.4467223, 
+          "lon": -66.8596068
+        }
+      }, 
+      "icon": {
+        "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro%202_zps76oc9qs6.png"
+      },
+      "id": 1, 
+      "text": {
+      	"description": "Sta Fe, F5300 La Rioja",
+        "title": "Mi Casa"
       }
     }
     
