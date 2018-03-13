@@ -23,7 +23,7 @@
           "lon": -66.860071
         }
       },  
-      "id": 1, 
+      "id": 2, 
       "text": {
         "title": "Automovil Club"
       }
@@ -36,7 +36,7 @@
           "lon": -66.8619415
         }
       }, 
-      "id": 1, 
+      "id": 3, 
       "text": {
         "title": "PLAZA 9 DE JULIO"
       }
@@ -49,7 +49,7 @@
           "lon": -66.861253
         }
       },  
-      "id": 1, 
+      "id": 4, 
       "text": {
         "title": "Archivo Historico"
       }
@@ -62,7 +62,7 @@
           "lon": -66.856459
         }
       },  
-      "id": 1, 
+      "id": 5, 
       "text": {
         "title": "Monumento a Juan Facundo Quiroga"
       }
@@ -75,7 +75,7 @@
           "lon": -66.861282
         }
       }, 
-      "id": 1, 
+      "id": 6, 
       "text": {
         "title": "EPET Nº 2"
       }
@@ -88,7 +88,7 @@
           "lon": -66.861282
         }
       }, 
-      "id": 1, 
+      "id": 7, 
       "text": {
         "title": "Correo Argentino"
       }
@@ -101,7 +101,7 @@
           "lon": -66.863231
         }
       }, 
-      "id": 1, 
+      "id": 8, 
       "text": {
         "title": "Hotel Imperial"
       }
@@ -114,7 +114,7 @@
           "lon": -66.858914
         }
       }, 
-      "id": 1, 
+      "id": 9, 
       "text": {
         "title": "Banco Santander Rio"
       }
