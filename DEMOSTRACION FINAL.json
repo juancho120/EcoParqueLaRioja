@@ -128,8 +128,26 @@
       	"description": "Hipólito Yrigoyen 64, La Rioja",
         "title": "Banco Santander Rio"
       }
-    }
+    },
 
+     {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.4467223, 
+          "lon": -66.8596068
+        }
+      }, 
+      "id": 10, 
+      "icon": {
+  		"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro%202_zps76oc9qs6.png",
+  		"type": 2  
+	  },  
+      "text": {
+      	"description": "Sta Fe, F5300 La Rioja",
+        "title": "Mi Casa"
+      }
+    }
+    
   ], 
   "layer": "ecoprueba25hwm"
 }
