@@ -1,0 +1,135 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+  	{
+      "anchor": {
+        "geolocation": {
+          "lat": -29.417288, 
+          "lon": -66.860926
+        }
+      }, 
+      "icon": {
+        "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro%202_zps76oc9qs6.png"
+      },
+      "id": 1, 
+      "text": {
+      	"description": "Sta Fe, F5300 La Rioja",
+        "title": "Municipalidad de La Rioja"
+      }
+    }, 
+
+	{
+      "anchor": {
+        "geolocation": {
+          "lat": -29.416221, 
+          "lon": -66.860071
+        }
+      },  
+      "id": 2, 
+      "text": {
+      	"description": "Vélez Sársfield 898-800, La Rioja",
+        "title": "Automovil Club"
+      }
+    }, 
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.4156382, 
+          "lon": -66.8619415
+        }
+      }, 
+      "id": 3, 
+      "text": {
+        "title": "PLAZA 9 DE JULIO"
+      }
+    }, 
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.415156, 
+          "lon": -66.861253
+        }
+      },  
+      "id": 4, 
+      "text": {
+      	"description": "Rivadavia 998-900, La Rioja",
+        "title": "Archivo Historico"
+      }
+    }, 
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.413110, 
+          "lon": -66.856459
+        }
+      },  
+      "id": 5, 
+      "text": {
+      	"description": "25 de Mayo 1-99, La Rioja",
+        "title": "Monumento a Juan Facundo Quiroga"
+      }
+    }, 
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.417623, 
+          "lon": -66.861282
+        }
+      }, 
+      "id": 6, 
+      "text": {
+      	"description": "Sta Fe 899-999, La Rioja",
+        "title": "EPET Nº 2"
+      }
+    }, 
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.417623, 
+          "lon": -66.861282
+        }
+      }, 
+      "id": 7, 
+      "text": {
+      	"description": "AV. Peron, La Rioja",
+        "title": "Correo Argentino"
+      }
+    }, 
+
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.418203, 
+          "lon": -66.863231
+        }
+      }, 
+      "id": 8, 
+      "text": {
+      	"description": "Mariano Moreno 329, La Rioja",
+        "title": "Hotel Imperial"
+      }
+    }, 
+    
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -29.418203, 
+          "lon": -66.858914
+        }
+      }, 
+      "id": 9, 
+      "text": {
+      	"description": "Hipólito Yrigoyen 64, La Rioja",
+        "title": "Banco Santander Rio"
+      }
+    }
+
+  ], 
+  "layer": "ecoprueba25hwm"
+}
