@@ -6,7 +6,12 @@
      "description": "The Location of the Layar Office", 
      "footnote": "Powered by Layar" },
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Siacutembolo_del_Clan_Inuzuka_zpswqcxrswj.png"
- }], 
+ }
+ 
+ "icon" {
+  "url": "http://i1290.photobucket.com/albums/b536/Juancho120/SimbolodeKonoha_zps93c94c8d.png",
+  "type": 2 
+}], 
  "layer": "ecoprueba25hwm",
  "errorString": "ok", 
  "errorCode": 0
