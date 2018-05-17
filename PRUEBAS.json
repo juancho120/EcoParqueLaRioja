@@ -2,7 +2,9 @@
    "id": "test_1",
    "anchor": { "geolocation": { "lat": -29.441497, "lon": -66.858996 } }, 
    
-
+		"icon": {
+			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/SimbolodeKonoha_zps93c94c8d.png"
+		},
  
    "text": {
      "title": "The Layar Office", 
