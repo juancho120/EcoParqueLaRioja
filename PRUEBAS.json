@@ -164,6 +164,7 @@
     },
     "refreshInterval": 10,
     "fullRefresh": false,
-     "errorCode": 0,
+    "layer": "ecoprueba25hwm",
+    "errorCode": 0,
     "errorString": "OK"
 }
