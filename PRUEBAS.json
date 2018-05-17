@@ -28,7 +28,7 @@
  "errorCode": 0
 } 
 
-{
+/*{
   "layer": "ecoprueba25hwm",
   "hotspots": [
     {
@@ -166,4 +166,4 @@
     "fullRefresh": false,
     "errorCode": 0,
     "errorString": "OK"
-}
+}/*
