@@ -5,7 +5,8 @@
    "anchor": { "geolocation": { "lat": -29.441497, "lon": -66.858996 } }, 
    
 		"icon": {
-			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Sin%20ttulo-1_zpswtnhodno.png"
+			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Sin%20ttulo-1_zpswtnhodno.png",
+			"type": 1
 		},
  
    "text": {
@@ -22,7 +23,8 @@
    "anchor": { "geolocation": { "lat": -29.447028, "lon": -66.859679 } }, 
    
 		"icon": {
-			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro_zps96z0yxly.png"
+			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro_zps96z0yxly.png",
+			"type": 2
 		},
  
    "text": {
