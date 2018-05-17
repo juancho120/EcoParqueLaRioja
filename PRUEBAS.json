@@ -5,14 +5,18 @@
      "title": "The Layar Office", 
      "description": "The Location of the Layar Office", 
      "footnote": "Powered by Layar" },
- "imageURL": "http:\/\/custom.layar.nl\/layarimage.jpeg"
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Siacutembolo_del_Clan_Inuzuka_zpswqcxrswj.png"
+ "icon": {
+  "url": "http://i1290.photobucket.com/albums/b536/Juancho120/SimbolodeKonoha_zps93c94c8d.png",
+  "type": 2 
+}
  }], 
  "layer": "ecoprueba25hwm",
  "errorString": "ok", 
  "errorCode": 0
 } 
 
-{"hotspots": [{
+/*{"hotspots": [{
    "id": "test_2",
    "anchor": { "geolocation": {"lat": -29.445839, "lon": -66.858617}},  
    "actions": [{ "uri": "tel:215-862-1996",
@@ -28,7 +32,7 @@
  "errorCode": 0
 } 
 
-/*{
+{
   "layer": "ecoprueba25hwm",
   "hotspots": [
     {
