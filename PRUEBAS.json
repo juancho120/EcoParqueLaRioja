@@ -29,7 +29,7 @@
 } 
 
 {
-  "layer": "animationex01",
+  "layer": "ecoprueba25hwm",
   "hotspots": [
     {
       "id": "test_3",   
@@ -164,7 +164,6 @@
     },
     "refreshInterval": 10,
     "fullRefresh": false,
-    "layer": "ecoprueba25hwm",
     "errorCode": 0,
     "errorString": "OK"
 }
