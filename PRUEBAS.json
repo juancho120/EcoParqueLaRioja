@@ -11,3 +11,159 @@
  "errorString": "ok", 
  "errorCode": 0
 } 
+
+{"hotspots": [{
+   "id": "test_2",
+   "anchor": { "geolocation": {"lat": -29.445839, "lon": -66.858617}},  
+   "actions": [{ "uri": "tel:215-862-1996",
+                 "label": "call",
+                 "activityType": 2,
+                 "autoTriggerRange": 200,     
+                 "autoTriggerOnly": false,     
+                 "contentType": "application\/vnd.layar.internal",     
+                 "method": "POST"}
+ ], 
+ "layer": "ecoprueba25hwm",
+ "errorString": "ok", 
+ "errorCode": 0
+} 
+
+{
+  "layer": "animationex01",
+  "hotspots": [
+    {
+      "id": "test_3",   
+      "anchor": {
+        "geolocation": {
+          "lat": -29.447504,
+          "lon": -66.858834
+        }
+      },
+      "text": {
+        "title": "bamboo",
+        "description": "some description",
+        "footnote": "powered by Layar"
+      },         
+      "object": {
+        "url": "http://example.com/full_model.l3d",
+        "contentType": "model/vnd.layar.l3d",
+        "reducedURL": "http://example.com/reduced_model.l3d",
+        "size": 2
+      },
+      "transform": {
+        "rotate": {
+          "rel": false,
+          "axis": { "x": 0, "y": 0, "z": 1},
+          "angle": 0
+        },
+       "translate": { "x": 0, "y": -0.075, "z": 0 },
+       "scale": 0.01
+      },
+      "animations": { // "animations" on a POI level. This overwrites the "animations" parameter defined on the layer level.
+        "onClick": [ // "onClick" event triggers the following animation.
+                     // The object size is scaled by a decimal factor from 0 to 2 on X, Y and Z axises.
+          {
+            "interpolation": "overshoot",
+            "to": 2,
+            "length": 2000,
+            "from": 0,
+            "delay": 0,
+            "repeat": false,
+            "type": "scale",
+            "axis": { "y": 1, "x": 1, "z": 1 },
+            "persist": true
+          },
+          // The object is relocated 60m northwards ( Y axis)
+          {
+            "interpolation": "accelerateDecelerate",
+            "to": 60,
+            "length": 1000,
+            "from": 0,
+            "delay": 500,
+            "repeat": false,
+            "type": "translate",
+            "axis": { "y": 1, "x": 0, "z": 0 },
+            "persist": true
+           }
+         ]
+        }
+      }
+    ],
+    "animations": { // Layer level animations.
+    
+        "onCreate": [  // The object size is scaled by a decimal factor from 0 to 2 on X, Y and Z axises.
+            {
+               "interpolation": "decelerate",
+               "interpolationParam": 1.0,
+                "to": 2,
+                "length": 10000,
+                "from": 0,
+                "delay": 0,
+                "repeat": false,
+                "type": "scale",
+                "axis": {
+                    "y": 1,
+                    "x": 1,
+                    "z": 1
+                },
+                "persist": true
+            }
+        ],
+        
+        "onUpdate": [ // When the layer is updated, translate the POI from its current location to its new position (for instance, lat, lon).
+            {
+                "length": 2000,
+                "type": "translate"
+                  
+            }
+        ],
+        
+        "onDelete": [ // When the POI is deleted, its size will be scaled from 1 to 0 on all X, Y, Z axises.
+             {
+                "to": 0,
+                "length": 10000,
+                "from": 1,
+                "type": "scale",
+                "axis": {
+                    "y": 1,
+                    "x": 1,
+                    "z": 1
+                },
+                "persist": true
+            }     
+        ],
+       
+        "onFocus": [ // Rotate the object around its Z-axis repeatedly.
+            {
+                "to": 360,
+                "length": 5000,
+                "from": 0,
+                "repeat": true,
+                "type": "rotate"
+            }
+        ],
+
+        "onClick": [ // Launch the object along Z-axis from 0m to 100m.
+            {
+                "axis": {
+                    "y": 0,
+                    "x": 0,
+                    "z": 5
+                },
+                "interpolation": "accelerate",
+                "length": 5000,
+                "to": 20,
+                "interpolationParam": 1,
+                "from": 0,
+                "type": "translate",
+                "repeat": false
+            
+            }
+        ]
+        
+    },
+    "refreshInterval": 10,
+    "fullRefresh": false,
+     "errorCode": 0,
+    "errorString": "OK"
+}
