@@ -1,0 +1,42 @@
+{"hotspots": [
+
+{
+   "id": "01",
+   "anchor": { "geolocation": { "lat": -29.441497, "lon": -66.858996 } }, 
+   
+		"icon": {
+			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Sin%20ttulo-1_zpswtnhodno.png",
+			"type": 1
+		},
+ 
+   "text": {
+     "title": "The Layar Office", 
+     "description": "The Location of the Layar Office", 
+     "footnote": "Powered by Layar" },
+
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Sin%20ttulo-1_zpswtnhodno.png"
+
+ },
+
+{
+   "id": "02",
+   "anchor": { "geolocation": { "lat": -29.447028, "lon": -66.859679 } }, 
+   
+		"icon": {
+			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro_zps96z0yxly.png",
+			"type": 2
+		},
+ 
+   "text": {
+     "title": "The Layar Office", 
+     "description": "The Location of the Layar Office", 
+     "footnote": "Powered by Layar" },
+
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro_zps96z0yxly.png"
+ }
+
+], 
+ "layer": "lariojaturisoqdp",
+ "errorString": "ok", 
+ "errorCode": 0
+} 
