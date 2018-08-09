@@ -35,6 +35,40 @@
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
  }
 
+ {
+   "id": "03",
+   "anchor": { "geolocation": { "lat":-29.411359 , "lon": -66.849321 } }, 
+   
+    "icon": {
+      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png",
+      "type": 1
+    },
+ 
+   "text": {
+     "title": "La Vasija", 
+     "description": "Direccion: Pelagio B. Luna (47) esq. Jaramillo - Avda. Perón 951 \nAbierto de lunes a sábados Por la mañana de 10.00hs a 13.30hs, Por la tarde de 18hs a 00hs. \nRubro: Vinos \nTeléfono: 0380 428-0775", 
+     "footnote": "Municipalidad de La Rioja" },
+
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png"
+ }
+
+ {
+   "id": "04",
+   "anchor": { "geolocation": { "lat": -29.422522, "lon": -66.860963 } }, 
+   
+    "icon": {
+      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png",
+      "type": 1
+    },
+ 
+   "text": {
+     "title": "La Querencia", 
+     "description": "Dirección: Av. J. D. Perón Nº 1200 \nTel: (0380) 4435214", 
+     "footnote": "Municipalidad de La Rioja" },
+
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
+ }
+
 ], 
  "layer": "lariojaturisoqdp",
  "errorString": "ok", 
