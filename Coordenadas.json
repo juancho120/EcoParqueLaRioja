@@ -2,25 +2,25 @@
 
 {
    "id": "01",
-   "anchor": { "geolocation": { "lat": -29.441497, "lon": -66.858996 } }, 
+   "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 } }, 
    
 		"icon": {
-			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Sin%20ttulo-1_zpswtnhodno.png",
+			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png",
 			"type": 1
 		},
  
    "text": {
-     "title": "The Layar Office", 
-     "description": "The Location of the Layar Office", 
+     "title": "Banco de la Nación Argentina", 
+     "description": "Dirección: Pelagio B. Luna 699 Horario: · 07:30–12:30 Teléfono: 0810-666-4444", 
      "footnote": "Powered by Layar" },
 
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Sin%20ttulo-1_zpswtnhodno.png"
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png"
 
  },
 
 {
    "id": "02",
-   "anchor": { "geolocation": { "lat": -29.4173947, "lon": -66.8600081 } }, 
+   "anchor": { "geolocation": { "lat": -29.447028, "lon": -66.859679 } }, 
    
 		"icon": {
 			"url": "http://i1290.photobucket.com/albums/b536/Juancho120/Shin%20y%20Kokoro_zps96z0yxly.png",
