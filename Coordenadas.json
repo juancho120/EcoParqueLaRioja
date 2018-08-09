@@ -33,7 +33,7 @@
      "footnote": "Municipalidad de La Rioja" },
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
- }
+ },
 
  {
    "id": "03",
@@ -50,9 +50,24 @@
      "footnote": "Municipalidad de La Rioja" },
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png"
+ },
+
+ {
+   "id": "04",
+   "anchor": { "geolocation": { "lat": -29.422522, "lon": -66.860963 } }, 
+   
+    "icon": {
+      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg",
+      "type": 1
+    },
+ 
+   "text": {
+     "title": "La Querencia", 
+     "description": "Dirección: Av. J. D. Perón Nº 1200 \nTel: (0380) 4435214", 
+     "footnote": "Municipalidad de La Rioja" },
+
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
  }
-
-
 
 ], 
  "layer": "lariojaturisoqdp",
