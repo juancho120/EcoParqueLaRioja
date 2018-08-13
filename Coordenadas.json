@@ -2,7 +2,9 @@
 
 {
    "id": "01",
-   "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 } }, 
+   "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 }, 
+    "checkbox": 1
+    }, 
    
     "icon": {
       "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png",
@@ -14,7 +16,7 @@
      "description": "Dirección: Pelagio B. Luna 699 \nHorario: 07:30–12:30 \nTeléfono: 0810-666-4444", 
      "footnote": "Municipalidad de La Rioja" },
 
-     "checkbox": 2,
+     
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png"
 
@@ -22,7 +24,9 @@
 
 {
    "id": "02",
-   "anchor": { "geolocation": { "lat": -29.413888, "lon": -66.847858 } }, 
+   "anchor": { "geolocation": { "lat": -29.413888, "lon": -66.847858 },
+   "checkbox": 2
+   }, 
    
     "icon": {
       "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png",
@@ -34,66 +38,9 @@
      "description": "Dirección: Av. Facundo Quiroga y Av. Rivadavia \nTeléfono: (0380) 4420365", 
      "footnote": "Municipalidad de La Rioja" },
 
-     "checkbox": 2,
+     
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
- },
-
- {
-   "id": "03",
-   "anchor": { "geolocation": { "lat":-29.411359 , "lon": -66.849321 } }, 
-   
-    "icon": {
-      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png",
-      "type": 1
-    },
- 
-   "text": {
-     "title": "La Vasija", 
-     "description": "Direccion: Pelagio B. Luna (47) esq. Jaramillo - Avda. Perón 951 \nAbierto de lunes a sábados Por la mañana de 10.00hs a 13.30hs, Por la tarde de 18hs a 00hs. \nRubro: Vinos \nTeléfono: 0380 428-0775", 
-     "footnote": "Municipalidad de La Rioja" },
-
-     "checkbox": 1,
-
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png"
- },
-
- {
-   "id": "04",
-   "anchor": { "geolocation": { "lat": -29.422522, "lon": -66.860963 } }, 
-   
-    "icon": {
-      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg",
-      "type": 1
-    },
- 
-   "text": {
-     "title": "La Querencia", 
-     "description": "Dirección: Av. J. D. Perón Nº 1200 \nTel: (0380) 4435214", 
-     "footnote": "Municipalidad de La Rioja" },
-
-     "checkbox": 1,
-
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
- },
-
- {
-   "id": "05",
-   "anchor": { "geolocation": { "lat": -29.415905 , "lon": -66.857242 } }, 
-   
-    "icon": {
-      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png",
-      "type": 1
-    },
- 
-   "text": {
-     "title": "TRAVEL STAR (sucursal)", 
-     "description": "Dirección: Dalmacio Vélez y Av. Perón Local “2 \nContactos: Teléfono:(0380)- 4210836 / 4773030 \nEmail: info@travelstarargentina.com", 
-     "footnote": "Municipalidad de La Rioja" },
-
-     "checkbox": 1,
-
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
  }
 
 ], 
