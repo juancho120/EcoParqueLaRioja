@@ -67,6 +67,23 @@
      "footnote": "Municipalidad de La Rioja" },
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
+ },
+
+ {
+   "id": "05",
+   "anchor": { "geolocation": { "lat": -29.415905 , "lon": -66.857242 } }, 
+   
+    "icon": {
+      "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png",
+      "type": 1
+    },
+ 
+   "text": {
+     "title": "TRAVEL STAR (sucursal)", 
+     "description": "Dirección: Dalmacio Vélez y Av. Perón Local “2 \nContactos: Teléfono:(0380)- 4210836 / 4773030 \nEmail: info@travelstarargentina.com", 
+     "footnote": "Municipalidad de La Rioja" },
+
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
  }
 
 ], 
