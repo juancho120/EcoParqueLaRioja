@@ -6,13 +6,15 @@
    
     "icon": {
       "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png",
-      "type": 2
+      "type": 1
     },
  
    "text": {
      "title": "Banco de la Nación Argentina", 
      "description": "Dirección: Pelagio B. Luna 699 \nHorario: 07:30–12:30 \nTeléfono: 0810-666-4444", 
      "footnote": "Municipalidad de La Rioja" },
+
+     "CHECKBOXLIST": 2,
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png"
 
@@ -24,13 +26,15 @@
    
     "icon": {
       "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png",
-      "type": 3
+      "type": 1
     },
  
    "text": {
      "title": "SHELL", 
      "description": "Dirección: Av. Facundo Quiroga y Av. Rivadavia \nTeléfono: (0380) 4420365", 
      "footnote": "Municipalidad de La Rioja" },
+
+     "CHECKBOXLIST": 2,
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
  },
@@ -49,6 +53,8 @@
      "description": "Direccion: Pelagio B. Luna (47) esq. Jaramillo - Avda. Perón 951 \nAbierto de lunes a sábados Por la mañana de 10.00hs a 13.30hs, Por la tarde de 18hs a 00hs. \nRubro: Vinos \nTeléfono: 0380 428-0775", 
      "footnote": "Municipalidad de La Rioja" },
 
+     "CHECKBOXLIST": 1,
+
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png"
  },
 
@@ -66,6 +72,8 @@
      "description": "Dirección: Av. J. D. Perón Nº 1200 \nTel: (0380) 4435214", 
      "footnote": "Municipalidad de La Rioja" },
 
+     "CHECKBOXLIST": 1,
+
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
  },
 
@@ -75,13 +83,15 @@
    
     "icon": {
       "url": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Vasija_zpsufebsiqg.png",
-      "type": 2
+      "type": 1
     },
  
    "text": {
      "title": "TRAVEL STAR (sucursal)", 
      "description": "Dirección: Dalmacio Vélez y Av. Perón Local “2 \nContactos: Teléfono:(0380)- 4210836 / 4773030 \nEmail: info@travelstarargentina.com", 
      "footnote": "Municipalidad de La Rioja" },
+
+     "CHECKBOXLIST": 1,
 
  "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
  }
