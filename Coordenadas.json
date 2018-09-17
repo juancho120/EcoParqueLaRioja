@@ -19,21 +19,6 @@
    
    "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png",
 
-   "animations": 
-   {
-    "onClick": 
-    [{
-      "interpolation": "overshoot",
-      "to": 2,
-      "length": 2000,
-      "from": 0,
-      "delay": 0,
-      "repeat": false,
-      "type": "scale",
-      "axis": {  "y": 1, "x": 1, "z": 1 },
-      "persist": true
-     }]
-    }
  },
 
 {
