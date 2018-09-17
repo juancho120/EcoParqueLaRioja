@@ -3,7 +3,7 @@
 {
    "id": "01",
    "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 }, 
-    "CHECKBOXLIST": 1
+    "SEARCHBOX": "banco"
     }, 
    
     "icon": {
@@ -25,7 +25,7 @@
 {
    "id": "02",
    "anchor": { "geolocation": { "lat": -29.413888, "lon": -66.847858 },
-   "CHECKBOXLIST": 2
+   "SEARCHBOX": "gasolinera"
    }, 
    
     "icon": {
