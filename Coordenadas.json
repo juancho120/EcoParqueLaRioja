@@ -3,7 +3,6 @@
 {
    "id": "01",
    "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 }, 
-    "SEARCHBOX": "banco"
     }, 
    
     "icon": {
@@ -16,16 +15,15 @@
      "description": "Dirección: Pelagio B. Luna 699 \nHorario: 07:30–12:30 \nTeléfono: 0810-666-4444", 
      "footnote": "Municipalidad de La Rioja" },
 
-     
+   "CHECKBOXLIST": 1,
 
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png"
+   "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png"
 
  },
 
 {
    "id": "02",
    "anchor": { "geolocation": { "lat": -29.413888, "lon": -66.847858 },
-   "SEARCHBOX": "gasolinera"
    }, 
    
     "icon": {
@@ -38,9 +36,9 @@
      "description": "Dirección: Av. Facundo Quiroga y Av. Rivadavia \nTeléfono: (0380) 4420365", 
      "footnote": "Municipalidad de La Rioja" },
 
-     
+   "CHECKBOXLIST": 2,
 
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
+   "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
  }
 
 ], 
