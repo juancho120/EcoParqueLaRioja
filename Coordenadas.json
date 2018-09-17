@@ -2,8 +2,7 @@
 
 {
    "id": "1",
-   "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 }, 
-   "CHECKBOXLIST": 1
+   "anchor": { "geolocation": { "lat": -29.412310, "lon": -66.857937 }
     }, 
    
     "icon": {
@@ -23,8 +22,7 @@
 
 {
    "id": "2",
-   "anchor": { "geolocation": { "lat": -29.413888, "lon": -66.847858 },
-   "CHECKBOXLIST": 2
+   "anchor": { "geolocation": { "lat": -29.413888, "lon": -66.847858 }
    }, 
    
     "icon": {
