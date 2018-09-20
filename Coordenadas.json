@@ -14,8 +14,9 @@
      "description": "Dirección: Pelagio B. Luna 699 \nHorario: 07:30–12:30 \nTeléfono: 0810-666-4444", 
      "footnote": "Municipalidad de La Rioja" },
 
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png"
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Banco%20Link_zps951afqox.png",
 
+ "CHECKBOXLIST" : "1"
  },
 
 {
@@ -32,7 +33,9 @@
      "description": "Dirección: Av. Facundo Quiroga y Av. Rivadavia \nTeléfono: (0380) 4420365", 
      "footnote": "Municipalidad de La Rioja" },
 
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png"
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/Shell_zps3fy91ini.png",
+
+ "CHECKBOXLIST" : "2"
  },
 
   {
@@ -49,11 +52,12 @@
      "description": "Dirección: Av. J. D. Perón Nº 1200 \nTel: (0380) 4435214", 
      "footnote": "Municipalidad de La Rioja" },
 
- "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg"
+ "imageURL": "http://i1290.photobucket.com/albums/b536/Juancho120/Turismo/La%20Querencia_zps7m5w7qb5.jpg",
+
+ "CHECKBOXLIST" : "2"
  }
 
 ], 
- "CHECKBOXLIST" : "1,2",
  "layer": "lariojaturis7gua",
  "errorString": "ok", 
  "errorCode": 0
